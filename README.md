@@ -146,7 +146,7 @@ public class Settings : MonoBehaviour
 ```
 7) Прикрепить скрипт настроек к меню настроек.
 8) Привязать OnValueChanged слайдера громкости к соответствующей функции.<br>
-!["screenshot"](Screenshots/5.png)<br>
+!["screenshot"](Screenshots/5.PNG)<br>
 ## Выводы
 Научился:
 - Делать простое меню
